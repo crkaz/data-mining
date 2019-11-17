@@ -1,2 +1,15 @@
-https://medium.com/@rbmsingh/making-jupyter-dark-mode-great-5adaedd814db
-jt -t onedork -f fira -fs 13 -nf ptsans -nfs 11 -N -kl -cursw 5 -cursc r -cellw 95% -T -P -kl
+DEFAULT THEME
+jt -r
+
+DARK THEMES
+jt -t chesterish -f roboto -fs 10 -nfs 14 -tfs 14 -dfs 10 -N -cellw 85% -T -cursw 3 -cursc b
+jt -t gruvboxd -f roboto -fs 10 -nfs 14 -tfs 14 -dfs 10 -N -cellw 85% -T -cursw 3 -cursc g
+jt -t monokai -f roboto -fs 10 -nfs 14 -tfs 14 -dfs 10 -N -cellw 85% -T -cursw 3 -cursc g
+jt -t oceans16 -f roboto -fs 10 -nfs 14 -tfs 14 -dfs 10 -N -cellw 85% -T -cursw 3 -cursc g
+jt -t onedork -f roboto -fs 10 -nfs 14 -tfs 14 -dfs 10 -N -cellw 85% -T -cursw 3 -cursc g
+jt -t solarizedd -f roboto -fs 10 -nfs 14 -tfs 14 -dfs 10 -N -cellw 85% -T -cursw 3 -cursc g
+
+LIGHT THEMES
+jt -t grade3 -f roboto -fs 10 -nfs 14 -tfs 14 -dfs 10 -N -cellw 85% -T -cursw 3 -cursc g
+jt -t gruvboxl -f roboto -fs 10 -nfs 14 -tfs 14 -dfs 10 -N -cellw 85% -T -cursw 3 -cursc g
+jt -t salarizedl -f roboto -fs 10 -nfs 14 -tfs 14 -dfs 10 -N -cellw 85% -T -cursw 3 -cursc g
